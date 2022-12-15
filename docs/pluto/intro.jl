@@ -363,7 +363,7 @@ if xmax_ood > data_specs.xmax
 	Markdown.parse("""
 	> Whooooops 🤕 ... looks like we're in trouble! What happened here?
 	
-	By expaning the domain of out inputs, we have violated the exchangeability assumption. When that assumption is violated, the marginal coverage property does not hold. But do not despair! There are ways to deal with this. 
+	By expanding the domain of our inputs, we have violated the exchangeability assumption. When that assumption is violated, the marginal coverage property does not hold. But do not despair! There are ways to deal with this. 
 	""")
 else
 	Markdown.parse("""
